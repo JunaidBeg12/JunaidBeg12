@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JunaidBeg12
+- 👋 Hi, I’m @Softechbee
 - 👀 I’m interested in Software Designer.
 - 🌱 I’m currently learning about new project
 - 💞️ I’m looking to collaborate on ...
